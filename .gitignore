@@ -1,0 +1,15 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/.pytest_cache/
+backend/data/*.db
+
+# JavaScript
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+!*.example
